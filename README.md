@@ -2,7 +2,7 @@
 ## About Project 
 
 
-- git clone
+- git clone https://github.com/vardshushan/cinema.git
 - npm nun dev (node version is 21.0.0)
 - php artisan serve (laravel 11)
 - php artisan migrate
